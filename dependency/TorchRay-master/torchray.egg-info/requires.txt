@@ -1,0 +1,8 @@
+importlib_resources
+matplotlib
+packaging
+pycocotools>=2.0.0
+pymongo
+requests
+torch>=1.1
+torchvision>=0.3.0
