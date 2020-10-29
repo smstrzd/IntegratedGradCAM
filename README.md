@@ -14,3 +14,6 @@ Visualizing the features captured by Convolutional Neural Networks (CNNs) is one
     <em>Fig: Schematic of the proposed method considering that the baseline image is set to black and the path connecting the baseline and the input is set as a straight line.</em>
 </p>
 
+---
+
+Open the [demo notebook](Integrated_Grad_CAM.ipynb) in Google Colab to quickly replicate our results.
